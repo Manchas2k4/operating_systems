@@ -1,0 +1,59 @@
+.:
+total 44
+drwxr-xr-x 6 alumno alumno 4096 ago 17 23:14 .
+drwxr-xr-x 3 root   root   4096 jul 25 23:48 ..
+-rw------- 1 alumno alumno  151 jul 27 04:18 .bash_history
+-rw-r--r-- 1 alumno alumno  220 abr  4 18:30 .bash_logout
+-rw-r--r-- 1 alumno alumno 3771 abr  4 18:30 .bashrc
+drwx------ 2 alumno alumno 4096 jul 25 23:50 .cache
+drwx------ 3 alumno alumno 4096 jul 25 23:50 .gnupg
+drwxrwxr-x 2 alumno alumno 4096 ago 17 23:12 lab3
+drwxrwxr-x 3 alumno alumno 4096 jul 26 00:39 .local
+-rw-r--r-- 1 alumno alumno  807 abr  4 18:30 .profile
+-rw-r--r-- 1 alumno alumno    0 jul 25 23:50 .sudo_as_admin_successful
+-rw------- 1 alumno alumno  756 jul 26 00:39 .viminfo
+
+./.cache:
+total 8
+drwx------ 2 alumno alumno 4096 jul 25 23:50 .
+drwxr-xr-x 6 alumno alumno 4096 ago 17 23:14 ..
+-rw-r--r-- 1 alumno alumno    0 jul 25 23:50 motd.legal-displayed
+
+./.gnupg:
+total 12
+drwx------ 3 alumno alumno 4096 jul 25 23:50 .
+drwxr-xr-x 6 alumno alumno 4096 ago 17 23:14 ..
+drwx------ 2 alumno alumno 4096 jul 25 23:50 private-keys-v1.d
+
+./.gnupg/private-keys-v1.d:
+total 8
+drwx------ 2 alumno alumno 4096 jul 25 23:50 .
+drwx------ 3 alumno alumno 4096 jul 25 23:50 ..
+
+./lab3:
+total 28
+drwxrwxr-x 2 alumno alumno 4096 ago 17 23:12 .
+drwxr-xr-x 6 alumno alumno 4096 ago 17 23:14 ..
+-rw-rw-r-- 1 alumno alumno  659 ago 17 23:14 file1
+-rw-rw-r-- 1 alumno alumno  659 ago 17 23:14 file2
+-rw-rw-r-- 1 alumno alumno 2041 ago 17 23:14 file3
+-rw-rw-r-- 1 alumno alumno 2041 ago 17 23:14 file4
+-rw-rw-r-- 1 alumno alumno  659 ago 17 23:14 file5
+-rw-rw-r-- 1 alumno alumno    0 ago 17 23:14 file6
+
+./.local:
+total 12
+drwxrwxr-x 3 alumno alumno 4096 jul 26 00:39 .
+drwxr-xr-x 6 alumno alumno 4096 ago 17 23:14 ..
+drwx------ 3 alumno alumno 4096 jul 26 00:39 share
+
+./.local/share:
+total 12
+drwx------ 3 alumno alumno 4096 jul 26 00:39 .
+drwxrwxr-x 3 alumno alumno 4096 jul 26 00:39 ..
+drwx------ 2 alumno alumno 4096 jul 26 00:39 nano
+
+./.local/share/nano:
+total 8
+drwx------ 2 alumno alumno 4096 jul 26 00:39 .
+drwx------ 3 alumno alumno 4096 jul 26 00:39 ..

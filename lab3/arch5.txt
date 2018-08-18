@@ -1,0 +1,13 @@
+total 44
+drwxr-xr-x 6 alumno alumno 4096 ago 17 23:14 .
+drwxr-xr-x 3 root   root   4096 jul 25 23:48 ..
+-rw------- 1 alumno alumno  151 jul 27 04:18 .bash_history
+-rw-r--r-- 1 alumno alumno  220 abr  4 18:30 .bash_logout
+-rw-r--r-- 1 alumno alumno 3771 abr  4 18:30 .bashrc
+drwx------ 2 alumno alumno 4096 jul 25 23:50 .cache
+drwx------ 3 alumno alumno 4096 jul 25 23:50 .gnupg
+drwxrwxr-x 2 alumno alumno 4096 ago 17 23:12 lab3
+drwxrwxr-x 3 alumno alumno 4096 jul 26 00:39 .local
+-rw-r--r-- 1 alumno alumno  807 abr  4 18:30 .profile
+-rw-r--r-- 1 alumno alumno    0 jul 25 23:50 .sudo_as_admin_successful
+-rw------- 1 alumno alumno  756 jul 26 00:39 .viminfo
